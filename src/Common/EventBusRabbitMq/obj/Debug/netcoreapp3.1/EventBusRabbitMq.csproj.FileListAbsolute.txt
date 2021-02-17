@@ -1,0 +1,9 @@
+C:\Users\Huseyn I. Asadov\Desktop\Projects\Microservice\src\Common\EventBusRabbitMq\bin\Debug\netcoreapp3.1\EventBusRabbitMq.deps.json
+C:\Users\Huseyn I. Asadov\Desktop\Projects\Microservice\src\Common\EventBusRabbitMq\bin\Debug\netcoreapp3.1\EventBusRabbitMq.dll
+C:\Users\Huseyn I. Asadov\Desktop\Projects\Microservice\src\Common\EventBusRabbitMq\bin\Debug\netcoreapp3.1\EventBusRabbitMq.pdb
+C:\Users\Huseyn I. Asadov\Desktop\Projects\Microservice\src\Common\EventBusRabbitMq\obj\Debug\netcoreapp3.1\EventBusRabbitMq.csprojAssemblyReference.cache
+C:\Users\Huseyn I. Asadov\Desktop\Projects\Microservice\src\Common\EventBusRabbitMq\obj\Debug\netcoreapp3.1\EventBusRabbitMq.AssemblyInfoInputs.cache
+C:\Users\Huseyn I. Asadov\Desktop\Projects\Microservice\src\Common\EventBusRabbitMq\obj\Debug\netcoreapp3.1\EventBusRabbitMq.AssemblyInfo.cs
+C:\Users\Huseyn I. Asadov\Desktop\Projects\Microservice\src\Common\EventBusRabbitMq\obj\Debug\netcoreapp3.1\EventBusRabbitMq.csproj.CoreCompileInputs.cache
+C:\Users\Huseyn I. Asadov\Desktop\Projects\Microservice\src\Common\EventBusRabbitMq\obj\Debug\netcoreapp3.1\EventBusRabbitMq.dll
+C:\Users\Huseyn I. Asadov\Desktop\Projects\Microservice\src\Common\EventBusRabbitMq\obj\Debug\netcoreapp3.1\EventBusRabbitMq.pdb
