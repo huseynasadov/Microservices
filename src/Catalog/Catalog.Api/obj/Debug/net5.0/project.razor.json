@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Huseyn I. Asadov\\Desktop\\Projects\\Microservice\\src\\WebApp\\AspnetRunBasics\\AspnetRunBasics.csproj",
+  "FilePath": "c:\\Users\\Huseyn I. Asadov\\Desktop\\Projects\\Microservice\\src\\Catalog\\Catalog.Api\\Catalog.Api.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15600,88 +15600,7 @@
     ],
     "CSharpLanguageVersion": 900
   },
-  "RootNamespace": "AspnetRunBasics",
-  "Documents": [
-    {
-      "FilePath": "c:\\Users\\Huseyn I. Asadov\\Desktop\\Projects\\Microservice\\src\\WebApp\\AspnetRunBasics\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Huseyn I. Asadov\\Desktop\\Projects\\Microservice\\src\\WebApp\\AspnetRunBasics\\Pages\\Cart.cshtml",
-      "TargetPath": "Pages\\Cart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Huseyn I. Asadov\\Desktop\\Projects\\Microservice\\src\\WebApp\\AspnetRunBasics\\Pages\\Order.cshtml",
-      "TargetPath": "Pages\\Order.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Huseyn I. Asadov\\Desktop\\Projects\\Microservice\\src\\WebApp\\AspnetRunBasics\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Huseyn I. Asadov\\Desktop\\Projects\\Microservice\\src\\WebApp\\AspnetRunBasics\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Huseyn I. Asadov\\Desktop\\Projects\\Microservice\\src\\WebApp\\AspnetRunBasics\\Pages\\Product.cshtml",
-      "TargetPath": "Pages\\Product.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Huseyn I. Asadov\\Desktop\\Projects\\Microservice\\src\\WebApp\\AspnetRunBasics\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Huseyn I. Asadov\\Desktop\\Projects\\Microservice\\src\\WebApp\\AspnetRunBasics\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Huseyn I. Asadov\\Desktop\\Projects\\Microservice\\src\\WebApp\\AspnetRunBasics\\Pages\\ProductDetail.cshtml",
-      "TargetPath": "Pages\\ProductDetail.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Huseyn I. Asadov\\Desktop\\Projects\\Microservice\\src\\WebApp\\AspnetRunBasics\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Huseyn I. Asadov\\Desktop\\Projects\\Microservice\\src\\WebApp\\AspnetRunBasics\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Huseyn I. Asadov\\Desktop\\Projects\\Microservice\\src\\WebApp\\AspnetRunBasics\\Pages\\Contact.cshtml",
-      "TargetPath": "Pages\\Contact.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Huseyn I. Asadov\\Desktop\\Projects\\Microservice\\src\\WebApp\\AspnetRunBasics\\Pages\\Confirmation.cshtml",
-      "TargetPath": "Pages\\Confirmation.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Huseyn I. Asadov\\Desktop\\Projects\\Microservice\\src\\WebApp\\AspnetRunBasics\\Pages\\Shared\\_ProductItemPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ProductItemPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Huseyn I. Asadov\\Desktop\\Projects\\Microservice\\src\\WebApp\\AspnetRunBasics\\Pages\\Shared\\_TopProductPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_TopProductPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Huseyn I. Asadov\\Desktop\\Projects\\Microservice\\src\\WebApp\\AspnetRunBasics\\Pages\\CheckOut.cshtml",
-      "TargetPath": "Pages\\CheckOut.cshtml",
-      "FileKind": "mvc"
-    }
-  ],
+  "RootNamespace": "Catalog.Api",
+  "Documents": [],
   "SerializationFormat": "0.2"
 }
